@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jiawei Fan works for Intel Labs China <img src='images/intel.jpg' style='width: 2.5em;'> as an AI researcher, supervised by <a href='https://yaoanbang.github.io/'>Anbang Yao</a>. His research interests span computer vision and model acceleration in deep learning. Recently, he focused on exploring knowledge transfer between models, contributing to model compression and training acceleration for omni-scale high-performance artificial intelligence systems.
+Jiawei Fan works for Intel Labs China <img src='images/intel.jpg' style='width: 2.5em;'> as an AI Research Scientist, supervised by <a href='https://yaoanbang.github.io/'>Anbang Yao</a>. His research interests span computer vision and model acceleration in deep learning. Previously, he explored knowledge transfer between models, contributing to model compression and training acceleration for omni-scale high-performance artificial intelligence systems.
 
 He obtained master degree of computer science at Beijing University of Posts and Telecommunications (BUPT), supervised by <a href='https://teacher.bupt.edu.cn/songmeina/zh_CN/'>Meina Song</a>. Before that, he obtained **first-class honorable degree** of Bachelor of Science and Engineering. when he graduated from joint program of Beijing University of Posts and Telecommunications (BUPT) and Queen Mary University of London (QMUL).
 
@@ -73,7 +73,7 @@ He obtained master degree of computer science at Beijing University of Posts and
 
 # 📖 Educations
 - *2020.09 - 2023.06*, Master at Beijing University of Posts and Telecommunications.
-- *2016.09 - 2020.06*, Bachelor at Beijing University of Posts and Telecommunications and Queen Marry University of London.
+- *2016.09 - 2020.06*, Bachelor at Beijing University of Posts and Telecommunications and Queen Mary University of London.
 
 # 🎖 Honors and Awards
 - *2023.11* Intel Labs China DRA Award.
