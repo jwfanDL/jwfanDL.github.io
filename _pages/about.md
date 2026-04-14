@@ -37,6 +37,21 @@ He obtained master degree of computer science at Beijing University of Posts and
 
 
 ## Selected Publications
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/com-pt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Chain-of-Models Pre-training: Rethinking Training Acceleration of Vision Foundational Models](https://arxiv.org/pdf/2411.06786)
+
+**Jiawei Fan**, Shigeng Wang, Chao Li, Xiaolong Liu, Anbang Yao\#
+
+[**Code**](https://github.com/deep-optimization/CoM-PT) **|** [**Project**](https://github.com/deep-optimization/CoM-PT)
+- This is the first work that unlocks the training efficiency scaling favorably with the VFM family size.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/ScaleKD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
