@@ -23,6 +23,8 @@ He obtained master degree of computer science at Beijing University of Posts and
 
 
 # 🔥 News
+- *2026.02*: &nbsp; A first-author paper on pre-training acceleration of Vision Foundational Models has been accepted to CVPR 2026.
+- *2026.01*: &nbsp; A paper (SliderQuant) on post-training quantization for large language models was accepted to ICLR 2026.
 - *2025.05*: &nbsp; A paper on diffusion acceleration framework that could accelerate any type of diffusion model has been accepted to ICML 2025.
 - *2024.09*: &nbsp; A first-author paper on exploring KD method for transferring the scalability of pre-trained ViTs to various architectures has been accepted to NeurIPS 2024.
 - *2023.09*: &nbsp; A first-author paper on efficient knowledge distillation for semantic segmentation has been accepted to NeurIPS 2023.
@@ -80,6 +82,7 @@ He obtained master degree of computer science at Beijing University of Posts and
 </div>
 </div>
 
+- [SliderQuant: Accurate Post-Training Quantization for Large Language Models.](https://jwfandl.github.io/), Shigeng Wang, Chao Li, Yangyuxuan Kang, **Jiawei Fan**, Zhonghong Ou, Anbang Yao#, International Conference on Learning Representations (ICLR 2025).
 - [Morse: Faster Sampling for Accelerating Diffusion Models Universally.](https://jwfandl.github.io/), Chao Li, **Jiawei Fan**, Anbang Yao, International Conference on Machine Learning (ICML 2025).
 - [DTR: An Information Bottleneck Based Regularization Framework for Video Action Recognition](https://dl.acm.org/doi/abs/10.1145/3503161.3548326), **Jiawei Fan\***, Yu Zhao\*\#, Xie Yu, Lihua Ma, Junqi Liu, Fangqiu Yi, Boxun Li, Proceedings of the 30th ACM International Conference on Multimedia (ACM-MM 2022).
 - [TCVM: Temporal Contrasting Video Montage Framework for Self-supervised Video Representation Learning](https://openaccess.thecvf.com/content/ACCV2022/papers/Tian_TCVM_Temporal_Contrasting_Video_Montage_Framework_for_Self-supervised_Video_Representation_ACCV_2022_paper.pdf), Fengrui Tian\*, **Jiawei Fan\***, Xie Yu, Shaoyi Du#, Meina Song, Yu Zhao, Proceedings of the Asian Conference on Computer Vision (ACCV 2022). <font color='red'><b>(Oral and Best Paper Award Honorable Mentioned)</b></font>
