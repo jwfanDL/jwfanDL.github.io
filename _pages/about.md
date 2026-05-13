@@ -39,25 +39,25 @@ He obtained master degree of computer science at Beijing University of Posts and
 (* Equal contribution, # Corresponding author)
 
 
-## Selected Publications
 
 
-### Pre-training Acceleration
+
+## Pre-training Acceleration
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/com-pt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Chain-of-Models Pre-training: Rethinking Training Acceleration of Vision Foundational Models](https://arxiv.org/pdf/2411.06786)
+[Chain-of-Models Pre-training: Rethinking Training Acceleration of Vision Foundational Models](https://arxiv.org/pdf/2604.12391)
 
 **Jiawei Fan**, Shigeng Wang, Chao Li, Xiaolong Liu, Anbang Yao\#
 
-[**Code**](https://github.com/deep-optimization/CoM-PT) **|** [**Project**](https://github.com/deep-optimization/CoM-PT)
+[**Code**](https://github.com/deep-optimization/CoM-PT) **|** 
 - This is the first work that unlocks the training efficiency scaling favorably with the VFM family size.
 </div>
 </div>
 
 
-### Knowledge Distillation
+## Knowledge Distillation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/ScaleKD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -74,7 +74,6 @@ He obtained master degree of computer science at Beijing University of Posts and
 
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/afdcd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -87,7 +86,7 @@ He obtained master degree of computer science at Beijing University of Posts and
 </div>
 </div>
 
-### Model Quantization
+## Model Quantization
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 Spotlight (Top 2.2%)</div><img src='images/cat-q.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -106,11 +105,14 @@ CAT-Q is a post-training ternary quantization framework that compresses LLMs wit
 
 
 
-### Pre-training Acceleration
+## Diffusion Acceleration
 - [Morse: Faster Sampling for Accelerating Diffusion Models Universally.](https://jwfandl.github.io/), Chao Li, **Jiawei Fan**, Anbang Yao, International Conference on Machine Learning (ICML 2025).
+
+
+## Efficient Video Action Recognition
 - [DTR: An Information Bottleneck Based Regularization Framework for Video Action Recognition](https://dl.acm.org/doi/abs/10.1145/3503161.3548326), **Jiawei Fan\***, Yu Zhao\*\#, Xie Yu, Lihua Ma, Junqi Liu, Fangqiu Yi, Boxun Li, Proceedings of the 30th ACM International Conference on Multimedia (ACM-MM 2022).
 - [TCVM: Temporal Contrasting Video Montage Framework for Self-supervised Video Representation Learning](https://openaccess.thecvf.com/content/ACCV2022/papers/Tian_TCVM_Temporal_Contrasting_Video_Montage_Framework_for_Self-supervised_Video_Representation_ACCV_2022_paper.pdf), Fengrui Tian\*, **Jiawei Fan\***, Xie Yu, Shaoyi Du#, Meina Song, Yu Zhao, Proceedings of the Asian Conference on Computer Vision (ACCV 2022). <font color='red'><b>(Oral and Best Paper Award Honorable Mentioned)</b></font>
-- [Episodic Projection Network for Out-of-Distribution Detection in Few-shot Learning.](https://www.computer.org/csdl/proceedings-article/icpr/2022/09956184/1IHqfHmafKM), **Jiawei Fan**, Zhonghong Ou\#, Xie Yu, Junwei Yang, Shigeng Wang, Xiaoyang Kang, Hongxing Zhang, Meina Song, 26th International Conference on Pattern Recognition (ICPR 2022).
+
 
 
 # 📖 Educations
