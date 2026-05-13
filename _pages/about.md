@@ -23,6 +23,7 @@ He obtained master degree of computer science at Beijing University of Posts and
 
 
 # 🔥 News
+- *2026.05*: &nbsp; CAT-Q, Cost-efficient and Accurate Ternary Quantization for 1.58-bit LLMs in the post-training regime, is accepted to ICML 2026 as a spotlight paper.
 - *2026.02*: &nbsp; A first-author paper on pre-training acceleration of Vision Foundational Models has been accepted to CVPR 2026.
 - *2026.01*: &nbsp; A paper (SliderQuant) on post-training quantization for large language models was accepted to ICLR 2026.
 - *2025.05*: &nbsp; A paper on diffusion acceleration framework that could accelerate any type of diffusion model has been accepted to ICML 2025.
@@ -41,6 +42,8 @@ He obtained master degree of computer science at Beijing University of Posts and
 ## Selected Publications
 
 
+### Pre-training Acceleration
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/com-pt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -53,6 +56,8 @@ He obtained master degree of computer science at Beijing University of Posts and
 </div>
 </div>
 
+
+### Knowledge Distillation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/ScaleKD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -82,7 +87,26 @@ He obtained master degree of computer science at Beijing University of Posts and
 </div>
 </div>
 
+### Model Quantization
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 Spotlight (Top 2.2%)</div><img src='images/cat-q.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs](#)
+
+Shigeng Wang, Chao Li, Yangyuxuan Kang, **Jiawei Fan**, Anbang Yao#. International Conference on Machine Learning (ICML), 2026. **Spotlight** (Top 2.2%).
+
+<p><a href="#"><strong>Code</strong></a> | <a href="#"><strong>Project</strong></a></p>
+
+CAT-Q is a post-training ternary quantization framework that compresses LLMs without costly quantization-aware training. Using just 512 calibration samples, it achieves competitive performance to BitNet 1.58-bit v1/v2 trained on 100B tokens—yielding an approximately 100,000× reduction in quantization cost. CAT-Q further demonstrates the first-ever ternary quantization of large pre-trained LLMs with up to 235B parameters within 60 hours on 8 A100 GPUs.
+
+</div>
+</div>
+
 - [SliderQuant: Accurate Post-Training Quantization for Large Language Models.](https://jwfandl.github.io/), Shigeng Wang, Chao Li, Yangyuxuan Kang, **Jiawei Fan**, Zhonghong Ou, Anbang Yao#, International Conference on Learning Representations (ICLR 2026).
+
+
+
+### Pre-training Acceleration
 - [Morse: Faster Sampling for Accelerating Diffusion Models Universally.](https://jwfandl.github.io/), Chao Li, **Jiawei Fan**, Anbang Yao, International Conference on Machine Learning (ICML 2025).
 - [DTR: An Information Bottleneck Based Regularization Framework for Video Action Recognition](https://dl.acm.org/doi/abs/10.1145/3503161.3548326), **Jiawei Fan\***, Yu Zhao\*\#, Xie Yu, Lihua Ma, Junqi Liu, Fangqiu Yi, Boxun Li, Proceedings of the 30th ACM International Conference on Multimedia (ACM-MM 2022).
 - [TCVM: Temporal Contrasting Video Montage Framework for Self-supervised Video Representation Learning](https://openaccess.thecvf.com/content/ACCV2022/papers/Tian_TCVM_Temporal_Contrasting_Video_Montage_Framework_for_Self-supervised_Video_Representation_ACCV_2022_paper.pdf), Fengrui Tian\*, **Jiawei Fan\***, Xie Yu, Shaoyi Du#, Meina Song, Yu Zhao, Proceedings of the Asian Conference on Computer Vision (ACCV 2022). <font color='red'><b>(Oral and Best Paper Award Honorable Mentioned)</b></font>
